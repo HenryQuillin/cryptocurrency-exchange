@@ -14,7 +14,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Gameplay">Gameplay</a></li>
+    <li><a href="#UsageExamples">Usage Examples</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -31,6 +31,8 @@ A cryptocurrency exchange to buy and sell $ETH (Ether) and $CRCO (Chrono Coin). 
 
 * [React.JS]()
 * [Solidity]()
+* [Truffle]()
+* [Web3.JS]()
 
 
 <!-- GETTING STARTED -->
@@ -41,20 +43,20 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/HenryQuillin/PONG-with-a-twist.git
-   ```
-2. Run index.html in your browser
 
+1. Clone the repository
+2. Make you have Node.js, Truffle, Metamask extension, Ganache Suit installed on your machine
+2. Install all the dependencies using "npm i" in your terminal
+3. Start by typing "npm run start" in your terminal
+4. Refresh browser after your transaction gets accepted in Metamask
 
-<!-- USAGE EXAMPLES -->
-## Gameplay
-![Screen Shot 2021-04-05 at 1 06 53 PM](https://i.imgur.com/Z1AvGu5.png)
-![Screen Shot 2021-04-05 at 1 06 53 PM](https://i.imgur.com/5q6LlzB.png)
-![Screen Shot 2021-04-05 at 1 06 53 PM](https://i.imgur.com/7mefTaO.png)
-![Screen Shot 2021-04-05 at 1 06 53 PM](https://i.imgur.com/Hjc8Rg4.png)
-![Screen Shot 2021-04-05 at 1 06 53 PM](https://i.imgur.com/ZWySOAJ.png)
+<!-- USAGEEXAMPLES -->
+## UsageExamples
+![](usage-screenshots/full.png)
+![](usage-screenshots/buy.png)
+![](usage-screenshots/sell.png)
+![](usage-screenshots/swap.png)
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -88,7 +90,7 @@ Project Link: [https://github.com/github_username/PONG-with-a-twist](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Thanks to [@AsherForman](https://github.com/AsherForman) for contributing
+* [@gwmccubin](https://github.com/gwmccubbin) 
 
 
 
