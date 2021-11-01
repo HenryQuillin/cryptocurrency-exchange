@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A cryptocurrency exchange to buy and sell $ETH (Ether) and $CRCO (Chrono Coin). Connects to the Metamask wallet. Built with React.JS, Solidity, Truffle, and Web3.JS. 
+A cryptocurrency exchange to buy and sell $ETH (Ether) and $CRCO (Fake coin I made). Connects to the Metamask wallet. Built with React.JS, Solidity, Truffle, and Web3.JS. 
 
 ### Built With
 
