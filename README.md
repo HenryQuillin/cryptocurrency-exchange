@@ -83,9 +83,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Henry Quillin - [Linkedin](https://www.linkedin.com/in/henry-quillin-014919204/) - henryquillin@gmail.com
 
-Project Link: [https://github.com/github_username/PONG-with-a-twist](https://github.com/github_username/PONG-with-a-twist)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
